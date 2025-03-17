@@ -1,1 +1,2 @@
 making this for rebasing !
+now i should rebase instead of merge/ no-rebase

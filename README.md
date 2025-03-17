@@ -3,6 +3,8 @@ Following Tech with Nana DevOps Bootcamps
 
 Added This line to conflict !
 
-some added text to try rebase !
+mroe changes added text to try rebase !
 
-new changes this time to use rebase ! on god !
+should have add this
+
+one more change
